@@ -1,0 +1,10 @@
+{
+  "description": "Explore a voice-powered archive of human memories and predictions, where users can submit audio capsules and discover structured historical records.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
